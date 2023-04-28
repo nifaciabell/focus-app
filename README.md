@@ -7,11 +7,11 @@ In the project directory, you can run: npm start to run the front end and node s
 
 ## Technologies Used:
 
-Wireframe created with :
+### Wireframe created with :
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Application coded with :
+### Application coded with :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -22,7 +22,7 @@ Wireframe created with :
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
-## Frameworks & Libraries :
+### Frameworks & Libraries :
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -67,7 +67,7 @@ List any unsolved issues.
 
 
 
-### Deployment
+## Deployment
 
 Insert Deployed site
 
