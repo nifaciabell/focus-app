@@ -11,7 +11,7 @@ Wireframe created with :
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-# Application coded with :
+## Application coded with :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -22,7 +22,7 @@ Wireframe created with :
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
-# Frameworks & Libraries :
+## Frameworks & Libraries :
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -44,13 +44,13 @@ Wireframe created with :
 
 ## Entity-Relationship-Diagram (ERD)
 
-![](Screenshots/Screen%20Shot%202023-04-27%20at%202.22.31%20PM.png)
+![](screenshots/Screen%20Shot%202023-04-27%20at%202.22.31%20PM.png)
 [Link to ERD](https://drive.google.com/file/d/1WI_tNrfUwubY0SIpaMfOVJSevJNhEp-A/view?usp=sharing)
 
 
 ## Getting Started:
 
-Track the Project Progress with Trello
+Track the Project Progress with 
 [Trello](https://trello.com/b/pRhIEN9I/mern-application)
 
 
@@ -81,6 +81,6 @@ Insert Deployed site
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-* [https://github.com/github_username/repo_name](https://github.com/nifaciabell/To-Do-App-Final-Project)
+* [https://github.com/github_username/repo_name](https://github.com/nifaciabell/focus-app)
 
 
