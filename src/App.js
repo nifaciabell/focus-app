@@ -1,10 +1,9 @@
 import {useState} from 'react';
-
 import { Routes, Route } from 'react-router-dom';
 
+import NavBar from './components/NavBar';
 import CreateTodo from './pages/CreateTodo';
 import AuthPage from './pages/AuthPage';
-import NavBar from './components/NavBar';
 import RegisterForm from './pages/RegisterForm';
 import UpdateForm from './pages/UpdateForm';
 import { getUser } from './utilities/users-service';

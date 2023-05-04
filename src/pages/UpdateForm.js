@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useParams, useHistory } from "react-router-dom";
 import axios from "axios";
 
-const UpdateTodo = (props) => {
+const UpdateForm = (props) => {
   const [todo, setTodo] = useState(null);
   const { id } = useParams();
   const history = useHistory();
@@ -75,4 +75,4 @@ const UpdateTodo = (props) => {
   );
 };
 
-export default UpdateTodo;
+export default UpdateForm;

@@ -1,4 +1,7 @@
 import { checkToken } from "../utilities/users-service";
+import { useState } from "react";
+import axios from 'axios';
+import {useHistory } from 'react-router-dom'
 
 
 function RegisterForm() {
@@ -14,15 +17,15 @@ function RegisterForm() {
       <button onClick={handleCheckToken}>
         Check When My Login Token Expires
       </button>
+
+      
     </div>
   );
 }
 
 export default RegisterForm;
 
-// import { useState } from "react";
-// import axios from 'axios';
-// import {useHistory } from 'react-router-dom'
+
 
 // const RegisterForm = (props) => {
 //     const history = useHistory()
