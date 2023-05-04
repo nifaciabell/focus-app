@@ -9,7 +9,7 @@ const CreateTodo = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    axios.post('http://localhost:5000/todos', formData, {
+    axios.post('http://localhost:3000/todos', formData, {
         headers: {
           'x-auth-token': localStorage.getItem("userToken")
         }
