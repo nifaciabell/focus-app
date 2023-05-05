@@ -55,7 +55,7 @@ function App() {
   return (
     <main className="container">
       <header>
-        <h1>Focus</h1>
+        <h1>FOCUS</h1>
       </header>
 
       {user ? (

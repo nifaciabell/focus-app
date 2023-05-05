@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 import SignUpForm from "../components/SignUpForm";
 import LoginForm from "../components/LogInForm";
 
@@ -8,7 +7,7 @@ function AuthPage({ setUser }) {
 
   return (
     <main className="AuthPage">
-      <h1>Authorization Page</h1>
+      <h3>Authorization Page</h3>
 
       <button onClick={() => setShowLogin(!showLogin)}>
         {showLogin ? "Sign up" : "Sign in"}

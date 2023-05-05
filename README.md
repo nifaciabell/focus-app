@@ -32,7 +32,6 @@ In the project directory, you can run: npm start to run the front end and node s
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ## Wireframes
@@ -55,7 +54,7 @@ Track the Project Progress with
 
 
 ## Unsolved Problems
-List any unsolved issues.
+* When a user logouts and the page is redirected to the authorization page the user's task is still displayed on the page. 
 
 ## Future Advancements
  Focus App 2.0 
@@ -64,6 +63,7 @@ List any unsolved issues.
  * Add calendar API
  * User needs to be able to organize to do list into categories
  * User needs to change color of task depending on level of importance. Ex:Red for URGENT!
+ * Continue improving UI and UX based on UX research to make more user friend
 
 
 ## Deployment
