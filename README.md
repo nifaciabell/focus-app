@@ -71,7 +71,7 @@ List any unsolved issues.
 Insert Deployed site
 
 ## Resources
-![Modern React CRUD App Project (React ToDo app)]
+#### Modern React CRUD App Project 
 (https://www.youtube.com/watch?v=7u2Rv4HfCYQ)
 
 ## Contact
