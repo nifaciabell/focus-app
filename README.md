@@ -62,14 +62,17 @@ List any unsolved issues.
  
  * Sync To-Do list with family, friends, and team
  * Add calendar API
- * 
- * 
-
+ * User needs to be able to organize to do list into categories
+ * User needs to change color of task depending on level of importance. Ex:Red for URGENT!
 
 
 ## Deployment
 
 Insert Deployed site
+
+## Resources
+![Modern React CRUD App Project (React ToDo app)]
+(https://www.youtube.com/watch?v=7u2Rv4HfCYQ)
 
 ## Contact
 
