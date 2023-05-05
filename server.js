@@ -1,7 +1,7 @@
 require('dotenv').config();
-require('./config/database'); // connects to db
+require('./config/database'); 
 const express = require('express');
-const path = require('path'); // node module
+const path = require('path'); 
 const favicon = require('serve-favicon');
 const logger = require('morgan');
 
