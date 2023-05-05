@@ -68,7 +68,7 @@ Track the Project Progress with
 
 ## Deployment
 
-Insert Deployed site
+https://focus-app.herokuapp.com/
 
 ## Resources
 #### Modern React CRUD App Project 
