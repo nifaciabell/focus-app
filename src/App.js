@@ -21,20 +21,22 @@ function App() {
   const [isEditing, setIsEditing] = useState(false);
   const [previousFocusEl, setPreviousFocusEl] = useState(null);
 
+  // CREATE 
   const addTask = (task) => {
     setTasks((prevState) => [...prevState, task]);
   };
 
+  // DELETE 
   const deleteTask = (id) => {
     setTasks((prevState) => prevState.filter((t) => t.id !== id));
   };
-  //
+  // UPDATE 
   const UpdateTask = (id) => {
     setTasks((prevState) =>
       prevState.map((t) => (t.id === id ? { ...t, checked: !t.checked } : t))
     );
   };
-
+// EDIT 
   const editTask = (task) => {
     setTasks((prevState =>
       prevState.map(t => (t.id === task.id ? { ...t, name: task.name } : t))

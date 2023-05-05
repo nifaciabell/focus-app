@@ -55,6 +55,7 @@ Track the Project Progress with
 
 ## Unsolved Problems
 * When a user logouts and the page is redirected to the authorization page the user's task is still displayed on the page. 
+* Hitting errors when I attempt to check a task off indicating that it is complete. 
 
 ## Future Advancements
  Focus App 2.0 
