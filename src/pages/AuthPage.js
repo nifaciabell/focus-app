@@ -7,7 +7,7 @@ function AuthPage({ setUser }) {
 
   return (
     <main className="AuthPage">
-      <h3>Authorization Page</h3>
+      <h3>Authorization</h3>
 
       <button onClick={() => setShowLogin(!showLogin)}>
         {showLogin ? "Sign up" : "Sign in"}
