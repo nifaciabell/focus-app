@@ -6,6 +6,7 @@ import AuthPage from "./pages/AuthPage";
 import CustomForm from "./components/CustomForm";
 import TaskList from "./components/TaskList";
 import EditForm from "./components/EditForm";
+import useLocalStorage from "./hooks/useLocalStorage";
 import { getUser } from "./utilities/users-service";
 
 import "./App.css";
@@ -54,7 +55,7 @@ function App() {
   return (
     <main className="container">
       <header>
-        <h1>My Task List</h1>
+        <h1>Focus</h1>
       </header>
 
       {user ? (
